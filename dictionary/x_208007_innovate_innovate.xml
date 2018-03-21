@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Innovate" max_length="40" name="x_208007_innovate_innovate" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="Choice 1" label="idea type" mandatory="true" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element label="Choice 1" sequence="0" value="Choice 1"/>
+                <element label="Choice 2" sequence="1" value="Choice 2"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="1000" name="u_description" type="string"/>
+        <element label="New Date" max_length="40" name="u_glide_date_1" type="glide_date"/>
+        <element label="New Time" max_length="40" name="u_glide_time_4" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Idea Type" max_length="40" name="u_idea_type" type="string">
+            <choice/>
+        </element>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="New Price" max_length="20" name="u_price_3" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="additional work" mandatory="true" max_length="125" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_2" type="string"/>
+    </element>
+</database>

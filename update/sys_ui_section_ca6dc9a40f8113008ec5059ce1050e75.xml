@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="log" section_id="ca6dc9a40f8113008ec5059ce1050e75" sys_domain="global" table="x_208007_innovate_innovate" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-21 10:22:58</sys_created_on>
+            <sys_id>9a6dc9a40f8113008ec5059ce1050efb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="log" display_value="log" name="x_208007_innovate_innovate" sys_domain="global" view="Default view">ca6dc9a40f8113008ec5059ce1050e75</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-21 10:22:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>log</caption>
+            <header>false</header>
+            <name>x_208007_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-21 10:22:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca6dc9a40f8113008ec5059ce1050e75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>log</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_208007_innovate">7ec62c100f4113008ec5059ce1050ea1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">7ec62c100f4113008ec5059ce1050ea1</sys_scope>
+            <sys_update_name>sys_ui_section_ca6dc9a40f8113008ec5059ce1050e75</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-21 10:22:57</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

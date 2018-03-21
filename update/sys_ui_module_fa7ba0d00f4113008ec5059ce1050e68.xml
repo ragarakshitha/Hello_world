@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Innovate">2a7ba0d00f4113008ec5059ce1050e66</application>
+        <filter/>
+        <name>Innovates</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_208007_innovate.innovate_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-20 13:16:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fa7ba0d00f4113008ec5059ce1050e68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Innovates</sys_name>
+        <sys_package display_value="Innovate" source="x_208007_innovate">7ec62c100f4113008ec5059ce1050ea1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">7ec62c100f4113008ec5059ce1050ea1</sys_scope>
+        <sys_update_name>sys_ui_module_fa7ba0d00f4113008ec5059ce1050e68</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-20 13:16:14</sys_updated_on>
+        <table>x_208007_innovate_innovate</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
